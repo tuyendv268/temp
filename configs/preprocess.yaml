@@ -3,7 +3,7 @@ path:
   corpus_path: "data/corpus"
   lexicon_path: "data/lexicon"
   raw_path: "data/raw"
-  preprocessed_path: "/kaggle/input/new-tts-dataset/data/data_new"
+  preprocessed_path: "/kaggle/input/tts-dataset-sale/data_sale"
 
 preprocessing:
   val_size: 512
